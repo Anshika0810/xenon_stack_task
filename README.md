@@ -1,4 +1,4 @@
-<h2><span style="font-size: medium;">Khaki - HTML E-commerce Online Shop</span></h2>
+<h2><span style="font-size: medium;">E-commerce - HTML E-commerce Online Shop</span></h2>
 <table class="post-table">
 <thead>
 <tr>
